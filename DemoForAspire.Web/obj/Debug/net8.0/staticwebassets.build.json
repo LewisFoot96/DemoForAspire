@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "/cj5C8t1mAZslP0JWPZZpEzaF3tWa02k/F31b7iYbOk=",
+  "Source": "DemoForAspire.Web",
+  "BasePath": "_content/DemoForAspire.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoForAspire.Web\\wwwroot",
+      "Source": "DemoForAspire.Web",
+      "ContentRoot": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\",
+      "BasePath": "_content/DemoForAspire.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DemoForAspire.Web.styles.css",
+      "SourceId": "DemoForAspire.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/DemoForAspire.Web",
+      "RelativePath": "DemoForAspire.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "vxlqokjptv",
+      "Integrity": "k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DemoForAspire.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoForAspire.Web.bundle.scp.css",
+      "SourceId": "DemoForAspire.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/DemoForAspire.Web",
+      "RelativePath": "DemoForAspire.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "vxlqokjptv",
+      "Integrity": "k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoForAspire.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\app.css",
+      "SourceId": "DemoForAspire.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\",
+      "BasePath": "_content/DemoForAspire.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kxsknyyukl",
+      "Integrity": "iFGGQDzB2E3xB2Dy94Dg5mG1WEcsy304nEPTEKQm7AQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "DemoForAspire.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\",
+      "BasePath": "_content/DemoForAspire.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "DemoForAspire.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\",
+      "BasePath": "_content/DemoForAspire.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\favicon.png",
+      "SourceId": "DemoForAspire.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\",
+      "BasePath": "_content/DemoForAspire.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iFGGQDzB2E3xB2Dy94Dg5mG1WEcsy304nEPTEKQm7AQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iFGGQDzB2E3xB2Dy94Dg5mG1WEcsy304nEPTEKQm7AQ="
+        }
+      ]
+    },
+    {
+      "Route": "app.kxsknyyukl.css",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iFGGQDzB2E3xB2Dy94Dg5mG1WEcsy304nEPTEKQm7AQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxsknyyukl"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iFGGQDzB2E3xB2Dy94Dg5mG1WEcsy304nEPTEKQm7AQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "DemoForAspire.Web.bundle.scp.css",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoForAspire.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs="
+        }
+      ]
+    },
+    {
+      "Route": "DemoForAspire.Web.styles.css",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DemoForAspire.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs="
+        }
+      ]
+    },
+    {
+      "Route": "DemoForAspire.Web.vxlqokjptv.bundle.scp.css",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoForAspire.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxlqokjptv"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoForAspire.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs="
+        }
+      ]
+    },
+    {
+      "Route": "DemoForAspire.Web.vxlqokjptv.styles.css",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DemoForAspire.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxlqokjptv"
+        },
+        {
+          "Name": "label",
+          "Value": "DemoForAspire.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k0nKXjCN6A8Ye18gC3DHFR8E1Qp9rlOF9zHNGiHqOfs="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\lfoot\\source\\repos\\DemoForAspire\\DemoForAspire.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 11:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}

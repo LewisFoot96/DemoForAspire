@@ -1,0 +1,12 @@
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\bin\Debug\net8.0\DemoForAspire.ServiceDefaults.deps.json
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\bin\Debug\net8.0\DemoForAspire.ServiceDefaults.dll
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\bin\Debug\net8.0\DemoForAspire.ServiceDefaults.pdb
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\DemoForAspire.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\DemoForAspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\DemoForAspire.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\DemoForAspire.ServiceDefaults.AssemblyInfo.cs
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\DemoForAspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\DemoForAspire.ServiceDefaults.dll
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\refint\DemoForAspire.ServiceDefaults.dll
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\DemoForAspire.ServiceDefaults.pdb
+C:\Users\lfoot\source\repos\DemoForAspire\DemoForAspire.ServiceDefaults\obj\Debug\net8.0\ref\DemoForAspire.ServiceDefaults.dll
